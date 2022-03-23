@@ -3,7 +3,7 @@
 ## M300-Services - Plattformübergreifende Dienste in ein Netzwerk integrieren
 # Multi Machine Datebase Zugriff
 
-![Net](Net.png)
+![Net](https://github.com/AmelieCampbell/M300-services/blob/master/Images/Net.PNG)
 
 # Dokumentation
 
